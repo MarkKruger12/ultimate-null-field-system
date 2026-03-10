@@ -21,3 +21,12 @@ This repository contains the complete design, simulation, and analysis of an ult
 | **Size** | 300mm cube | Benchtop compatible |
 
 ### 🔷 **System Architecture**
+## 📊 Performance Visualization
+
+![Null Field Achievement](docs/null_field_chart.png)
+
+*Comparison: Commercial systems (1,000,000 fT) vs This work (0.455 fT)*
+
+## 🔬 Detailed Results
+
+### Magnetic Field Cancellation
